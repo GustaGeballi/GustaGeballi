@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustageballi&label=Profile%20views&color=db8000&style=flat" alt="gustageballi" /> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/gustavo-geballi" target="blank"><img src="https://img.shields.io/linkedin/follow/gustavo_geballi?logo=linkedin&style=for-the-badge" alt="gustavo_geballi" /></a> </p>
-
 - 🌱 I’m currently learning **Angular, JavaScript and TypeScript**
 
 - 💬 Ask me about **HTML and CSS**
